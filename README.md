@@ -1,4 +1,4 @@
-# 📚 My Study Notes Hub
+# 📚 My Cyber Security Notes
 
 Welcome to my notes collection 🚀  
 Here you’ll find organized resources for certifications & cybersecurity paths 🔐
