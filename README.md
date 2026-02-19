@@ -19,7 +19,7 @@ Here you’ll find organized resources for certifications & cybersecurity paths 
 - 🕵️ **CompTIA Network+ Notes**  
   👉 https://www.notion.so/mohamedadell/Network-183f96650d968020bdb9d866a3f735e3?source=copy_link
   
-  - 🪟 **Windows Advanced Information**  
+ - 🪟 **Windows Advanced Information**  
   👉 https://www.notion.so/mohamedadell/windows-information-16af96650d9680f8bad6ca6c7097d8dc?source=copy_link
 
 ---
